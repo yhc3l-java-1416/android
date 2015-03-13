@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Friday</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello</string>
+    <string name="world">World!</string>
+    <string name="click">Press me</string>
+    <string name="edit_hint">Write a message</string>
+    <string name="title_activity_show_message">ShowMessageActivity</string>
+    <string name="action_reload">Reload</string>
+</resources>
