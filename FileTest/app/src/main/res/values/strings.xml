@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FileTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="persist">persist</string>
+    <string name="restore">restore</string>
+    <string name="add_fake">add fake</string>
+    <string name="size">size</string>
+</resources>
